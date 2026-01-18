@@ -23,7 +23,16 @@ Os scripts são organizados por **categoria funcional**, podendo evoluir conform
 
 Estrutura esperada do repositório:
 
-"Scripts/enum/enun.py  # Enumeração (rede, serviços, web, usuários, etc)"
+```
+Scripts/
+├── enum/ # Enumeração (rede, serviços, web, usuários, etc)
+├── bruteforce/ # Scripts de força bruta e wordlist handling
+├── web/ # Automação e exploração web
+├── privesc/ # Auxílio para enumeração e escalonamento de privilégios
+├── post-exploit/ # Pós-exploração e manutenção de acesso
+├── utils/ # Scripts utilitários diversos
+└── README.md
+```
 
 Cada diretório pode conter seu próprio `README.md` explicando o funcionamento dos scripts ali presentes.
 
