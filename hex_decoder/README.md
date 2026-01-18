@@ -74,8 +74,9 @@ Este script **não é um sniffer**, nem uma ferramenta de captura de tráfego. E
 2. Execute o script passando o arquivo como argumento
 
 Exemplo de execução:
-
+```
 ./decoder.py hex.txt
+```
 
 ---
 
