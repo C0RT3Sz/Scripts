@@ -83,24 +83,24 @@ Exemplo de execução:
 
 Ao executar o script com um pacote válido, a saída será semelhante a:
 
- *CABEÇALHO IPv4
- *versão: 4
- *ihl: 20
- *tamanho_total: 52
- *ttl: 6
- *protocolo: 6
- *ip_origem: 192.168.1.100
- *ip_destino: 192.168.1.200
+ * CABEÇALHO IPv4
+ * versão: 4
+ * ihl: 20
+ * tamanho_total: 52
+ * ttl: 6
+ * protocolo: 6
+ * ip_origem: 192.168.1.100
+ * ip_destino: 192.168.1.200
 
- *TRANSPORTE (TCP)
- *porta_origem: 80
- *porta_destino: 54321
- *servico_origem: HTTP
- *servico_destino: Desconhecido
- *flags: ['PSH', 'ACK']
+ * TRANSPORTE (TCP)
+ * porta_origem: 80
+ * porta_destino: 54321
+ * servico_origem: HTTP
+ * servico_destino: Desconhecido
+ * flags: ['PSH', 'ACK']
 
- *PAYLOAD (ASCII)
- *Hello!
+ * PAYLOAD (ASCII)
+ * Hello!
 
 ---
 
