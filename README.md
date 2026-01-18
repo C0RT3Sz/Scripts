@@ -1,4 +1,4 @@
-```
+
 # 🛠️ Scripts de Pentest & Segurança
 
 Este repositório contém scripts desenvolvidos por **c0rt3s** ao longo dos estudos e práticas em **cibersegurança ofensiva**, com foco em **Pentest**, **Red Team**, **CTFs** e **automação de tarefas de segurança**.
@@ -23,8 +23,6 @@ Os scripts são organizados por **categoria funcional**, podendo evoluir conform
 
 Estrutura esperada do repositório:
 
-```
-
 Scripts/
 ├── enum/          # Enumeração (rede, serviços, web, usuários, etc)
 ├── bruteforce/    # Scripts de força bruta e wordlist handling
@@ -33,8 +31,6 @@ Scripts/
 ├── post-exploit/  # Pós-exploração e manutenção de acesso
 ├── utils/         # Scripts utilitários diversos
 └── README.md
-
-```
 
 Cada diretório pode conter seu próprio `README.md` explicando o funcionamento dos scripts ali presentes.
 
@@ -79,4 +75,4 @@ Scripts podem ser refatorados, melhorados ou substituídos conforme o aprendizad
 ---
 👤 **Autor:** c0rt3s  
 🔗 **GitHub:** https://github.com/C0RT3Sz
-```
+
