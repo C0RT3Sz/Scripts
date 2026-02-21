@@ -1,80 +1,98 @@
+# 🛠️ Python Security Scripts
 
-# 🛠️ Scripts de Pentest & Segurança
+Este diretório reúne scripts desenvolvidos por **c0rt3s** durante o processo contínuo de aprendizado em Python aplicado à segurança da informação.
 
-Este repositório contém scripts desenvolvidos por **c0rt3s** ao longo dos estudos e práticas em **cibersegurança ofensiva**, com foco em **Pentest**, **Red Team**, **CTFs** e **automação de tarefas de segurança**.
+Os códigos aqui presentes são autorais e têm como objetivo principal consolidar fundamentos técnicos, automatizar tarefas específicas e documentar a evolução prática na linguagem Python.
 
-Todos os scripts aqui presentes foram criados com o objetivo de **auxiliar processos reais de enumeração, exploração, pós-exploração e escalonamento de privilégios**, além de servir como material de estudo e evolução técnica contínua.
+Cada script representa um passo no desenvolvimento lógico, estrutural e técnico dentro da área de segurança ofensiva.
 
 ---
 
-## 🎯 Objetivo do Repositório
+## 🎯 Objetivo do Diretório
 
-- Centralizar **todos os scripts autorais** desenvolvidos durante estudos e labs
-- Automatizar tarefas comuns em pentest
-- Servir como **repositório de apoio** para CTFs e laboratórios
-- Documentar a evolução técnica ao longo do tempo
-- Construir um portfólio prático em segurança ofensiva
+* Praticar Python de forma aplicada à segurança
+* Automatizar tarefas comuns de análise e reconhecimento
+* Consolidar fundamentos de redes e programação
+* Evoluir na organização e estruturação de código
+* Documentar a progressão técnica ao longo do tempo
+
+Este diretório funciona como um laboratório pessoal de desenvolvimento.
 
 ---
 
 ## 📂 Organização
 
-Os scripts são organizados por **categoria funcional**, podendo evoluir conforme novos projetos forem adicionados.
+Cada script possui sua própria pasta, contendo:
 
-Estrutura esperada do repositório:
-
-```
-Scripts/
-├── enum/ # Enumeração (rede, serviços, web, usuários, etc)
-├── bruteforce/ # Scripts de força bruta e wordlist handling
-├── web/ # Automação e exploração web
-├── privesc/ # Auxílio para enumeração e escalonamento de privilégios
-├── post-exploit/ # Pós-exploração e manutenção de acesso
-├── utils/ # Scripts utilitários diversos
+```text
+nome_do_script/
+├── script.py
 └── README.md
 ```
 
-Cada diretório pode conter seu próprio `README.md` explicando o funcionamento dos scripts ali presentes.
+O `README.md` interno descreve:
+
+* O propósito do script
+* Como ele funciona
+* Como utilizar
+* Exemplos de execução
+* Contexto técnico aplicado
+
+Essa estrutura permite manter os projetos organizados, independentes e facilmente expansíveis.
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## 🧠 Metodologia
 
-Os scripts podem ser escritos em diferentes linguagens, dependendo do objetivo:
+Os scripts seguem princípios como:
 
-- **Python**
-- **Bash**
-- **Shell Script**
-- **PowerShell** (quando aplicável)
-- Outras linguagens conforme necessidade técnica
+* Código estruturado em funções
+* Separação de responsabilidades
+* Tratamento de exceções
+* Clareza e legibilidade
+* Refatoração conforme evolução do aprendizado
+
+O foco está no entendimento da lógica e no domínio progressivo da linguagem Python.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* Python 3
+* Bibliotecas padrão da linguagem
+* Manipulação de rede e arquivos
+* Estruturação modular de código
+
+Todos os scripts neste diretório são desenvolvidos exclusivamente em Python.
+
+---
+
+## 📈 Evolução Contínua
+
+Este diretório está em constante atualização.
+
+Scripts podem ser:
+
+* Refatorados
+* Melhorados
+* Reorganizados
+* Otimizados
+
+Conforme o conhecimento técnico evolui.
+
+O objetivo é que este repositório reflita claramente a progressão prática na linguagem Python aplicada à segurança.
 
 ---
 
 ## ⚠️ Aviso Legal
 
-> **Este repositório é destinado exclusivamente para fins educacionais e de estudo.**
+Este conteúdo é destinado exclusivamente para fins educacionais.
 
-Os scripts aqui presentes **não devem ser utilizados** em ambientes ou sistemas **sem autorização explícita**.  
-O autor **não se responsabiliza** por qualquer uso indevido deste conteúdo.
+Os scripts devem ser utilizados apenas em ambientes autorizados, laboratórios ou redes onde exista permissão explícita.
 
----
-
-## 📚 Contexto de Estudo
-
-Grande parte dos scripts nasce a partir de:
-- Labs de CTF (TryHackMe, Hack The Box, etc.)
-- Estudos práticos em segurança ofensiva
-- Conteúdo e metodologia da **Desec Security**
-- Necessidades reais durante enumeração e exploração
+O autor não se responsabiliza por qualquer uso indevido do conteúdo.
 
 ---
 
-## 📌 Observação Final
-
-Este repositório está em **constante evolução**.  
-Scripts podem ser refatorados, melhorados ou substituídos conforme o aprendizado avança.
-
----
-👤 **Autor:** c0rt3s  
-🔗 **GitHub:** https://github.com/C0RT3Sz
-
+👤 **Autor:** c0rt3s
+🔗 **GitHub:** [https://github.com/C0RT3Sz](https://github.com/C0RT3Sz)
