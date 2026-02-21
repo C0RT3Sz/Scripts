@@ -95,4 +95,5 @@ O autor não se responsabiliza por qualquer uso indevido do conteúdo.
 ---
 
 👤 **Autor:** c0rt3s
+
 🔗 **GitHub:** [https://github.com/C0RT3Sz](https://github.com/C0RT3Sz)
